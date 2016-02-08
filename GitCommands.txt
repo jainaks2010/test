@@ -1,6 +1,6 @@
 git add 
 git clone
-git branch
+git branch <new_branch_to_create> : This command is used to create a new branch.
 git checkout
 git status
 git log
